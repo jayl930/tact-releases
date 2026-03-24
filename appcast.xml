@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Tact</title>
+    <item>
+      <title>Version 1.1</title>
+      <pubDate>Tue, 25 Mar 2026 12:00:00 +0900</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/jayl930/tact-releases/releases/download/v1.1/Tact-v1.1.dmg"
+        length="9010214"
+        type="application/octet-stream"
+        sparkle:edSignature="j7NWoV+AYM+eaJu5nz6Hx/WclU5FiQHTJbANBldJPwR7ULcCKO4KWDLRx2QMHubJfojIlUpQZoqLMRob4RDjBw=="
+      />
+    </item>
+    <item>
+      <title>Version 1.0</title>
+      <pubDate>Tue, 25 Mar 2026 00:00:00 +0900</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/jayl930/tact-releases/releases/download/v1.0/Tact-v1.0.dmg"
+        length="8929360"
+        type="application/octet-stream"
+        sparkle:edSignature="DZkZXHEGsqXuQf+8ouJLftUuo2SyI1SatC6worOF9VHJzRa9+eubhodpV8quLyrxo2dd21YOj7wjAuZOOkfPAw=="
+      />
+    </item>
+  </channel>
+</rss>
