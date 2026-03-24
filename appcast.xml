@@ -10,9 +10,9 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/jayl930/tact-releases/releases/download/v1.1/Tact-v1.1.dmg"
-        length="9010214"
+        length="9003474"
         type="application/octet-stream"
-        sparkle:edSignature="j7NWoV+AYM+eaJu5nz6Hx/WclU5FiQHTJbANBldJPwR7ULcCKO4KWDLRx2QMHubJfojIlUpQZoqLMRob4RDjBw=="
+        sparkle:edSignature="NMKZxhepzyiDQPo+loYTWATfh7zSi1wpQ/QLfx1m6v4lMv7RX9Sa9mfwqbkqYncl21h7Di4hwMtFp700FbxTBw=="
       />
     </item>
     <item>
