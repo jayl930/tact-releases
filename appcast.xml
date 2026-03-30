@@ -3,6 +3,19 @@
   <channel>
     <title>Tact</title>
     <item>
+      <title>Version 1.2</title>
+      <pubDate>Sun, 30 Mar 2026 15:00:00 +0900</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/jayl930/tact-releases/releases/download/v1.2/Tact-v1.2.dmg"
+        length="9166738"
+        type="application/octet-stream"
+        sparkle:edSignature="qHKJouYciMQdk9Ki7eEBJmGUM5P2d5VJarlXWDpo0N0UC1h/OmfAR8KDGxn+9PpVKWqvo76t6BmpaDMkiZR/CQ=="
+      />
+    </item>
+    <item>
       <title>Version 1.1</title>
       <pubDate>Tue, 25 Mar 2026 12:00:00 +0900</pubDate>
       <sparkle:version>2</sparkle:version>
